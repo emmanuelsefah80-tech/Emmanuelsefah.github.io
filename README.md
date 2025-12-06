@@ -7,3 +7,5 @@ Statistics of the growing player count of Fortnite. I want to know how much Fort
 
 #Mygame dev portfolio
 #my bitys level: you are a pizza man that is delivering a pizza to a birthday boy, but little do you know that the building you're getting into is full of people to finish your job, you need to give the pizza to the birthday boy directly 
+<img width="756" height="755" alt="Screenshot 2025-12-06 at 3 39 04 PM" src="https://github.com/user-attachments/assets/bd58f3fe-44df-49f9-84d8-169b73fd6eef" />
+[the_pizza_boi_journey_.html.zip](https://github.com/user-attachments/files/23998829/the_pizza_boi_journey_.html.zip)
